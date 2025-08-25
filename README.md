@@ -14,8 +14,7 @@ This project focuses on **creating an interactive visualizations of these result
 
 The main objective of this project is to **develop an interactive visualization tool that supports NGOs in monitoring food security** conditions across Karamoja. Specifically, the project seeks to:
 - Integrate population and production data to **highlight areas where food availabilty is critically low.**
-- **Visualize crop contribution for sorghum and maize** using satellite-based estimates at both district and subcounty levels.
-- **Visualize crop yields for sorghum and maize** using satellite-based estimates at both district and subcounty levels.
+- **Visualize crop yield and production for sorghum and maize** using satellite-based estimates at both district and subcounty levels..
 - **Identify priority areas for NGO intervention** by revealing patterns of low productivity and high vulnerabilty.
 - **Enable interactive exploration** through maps, charts and filters that allow users to compare regions and crop performance.
 
@@ -48,8 +47,7 @@ supplies.**
 especially Moroto** are the **lowest** (20.28 and 8.05 resp.), showing **significant production pressure relative to population**.
 
 **Nakupiripirit and Kotido** are **better positioned to meet household food needs** and may even have surplases. On the other hand, **Moroto shows critical underproduction**, raising
-concerns about food shortages and dependency on imports or aid. **Kaabang's low production per capita value, despite high yields**, suggests **population pressure or smaller total
-cultivated area relative to population size**.
+concerns about food shortages. **Kaabang's low production per capita value, despite high yields**, suggests **population pressure.
 
 <img width="987" height="471" alt="True Prod  per Capita" src="https://github.com/user-attachments/assets/2a808de0-3ad3-4eb8-8bee-938243841c38" />
 
@@ -60,16 +58,17 @@ favourable growing conditions.
 <img width="989" height="469" alt="Total POP vs Total Prod" src="https://github.com/user-attachments/assets/0aae4003-34fb-4950-bbb0-c531154e913a" />
 
 ## Conclusions
-- **Sorghum and maize yields vary significantly across districts** and subcounties, with some areas such as **Moroto District** consistently underperfoming due to harsher drought effects.
-- Districts like Kotido and Nakupiripirit consistently produce surplus rekative to population making them **regional supply hubs.**
-- Some districts such as Kaabong show good yields but low production per capita due to higher population relative to farmland, stressing the need to integrate demographic trends.
-- Some sub-counties such as **Nadunget, Namalu and Kotido rely heavily on a single crop**. This lack of diversification **increases vulnerability** when that crop fails.
+- Most districts such as **Kotido** heavily rely on sorghum production than maize production.
+- **Sorghum and maize yields and production vary significantly across districts** and subcounties, with some areas such as **Moroto District** consistently underperfoming due to harsher drought effects.
 - Moroto, Abim and Amudat contribute less to the regional food basket, with both **low crop area and production**.
+- Districts like Kotido and Nakupiripirit consistently produce surplus relative to population making them **regional supply hubs.**
+- Some districts such as Kaabong show good yields but low production per capita due to higher population relative to farmland, stressing the need to integrate demographic trends.
 
 ## Recommendations
 - **Prioritize high-risk sub-counties.** Direct NGO interventions (farm inputs, drought-resistant seeds) to sub-counties with the lowest food production per capita such as Kaabong East and Kaabong Town Council.
 - **Promote crop diversification.** Encourage farmers to balance maize and sorghum cultivation or even introduce legumes such as beans or root crops such as cassava to reduce risk from crop-specific shocks. 
-- **Apply Targeted Resource Allocation.** Use yield maps to distribute resources e.ge fertilizers, more effectively rather than evenly across districts.
+- **Apply Targeted Resource Allocation.** Use yield maps to distribute resources e.g fertilizers, more effectively rather than evenly across districts.
 - **Early warning systems.** Develop a monitoring framework that updates yield estimates annually or seasonally to detect emerging food security risks early.
 - **Promote soil health programs** such as use of organic manure, crop rotation, and soil conservation practices to improve yields sustainably.
 - **Market development**. Support farmers with market linkages and cooperative models so surplus is not wasted and farmers earn fair value.
+- **Introduce mordern farming methods** such as irrigation and use of greenhouses to improve crop yields in the region
