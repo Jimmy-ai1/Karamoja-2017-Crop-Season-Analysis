@@ -27,23 +27,49 @@ The data used in this analysis consists of **two datasets** which provide inform
 
 The chart highlights Kotido's dominance in sorghum production, suggesting that sorghum is likely the best performing in that district. Maize production is relatively stronger in Nakapiripirit and Napak compared to other districts. The disparity in production volumes points to differences in land area, soil suitability, or farmer preference for crop type across districts.
 
-<img width="992" height="470" alt="Crop Contribution" src="https://github.com/user-attachments/assets/f542596f-6c4b-4600-8241-d6b0cdec1d27" />
-
+<img width="990" height="472" alt="Crop Contribution" src="https://github.com/user-attachments/assets/c9ae74de-20e7-428c-b9a8-e408c4413737" />
 
 Kabong and Nakapiripirit perform well in maize yields (13,851 kg/Ha and 9,353 kg/Ha resp.), far surpassing other districts. Sorghum yields are genereally lower across all districts, with Kaabang (3,664 kg/Ha) and Abim (2,582 kg/Ha) showing the strongest performance for sorghum. Moroto has the lowest yields for both crops indicating poor perfomance.
 
-Although Kotido leads in production volumes, its yield per hectare is lower then Kaabang's and Nakapiripirit's. This suggests that Kotido has a large are pf cultivation but lower efficiency, while Kaabang achieves better productivity per unit area. Sorghum appears less productive then maize overall, possibly due to lower inputs, poor agronomic practices, or environmental limitations.
+Although Kotido leads in production volumes, its yield per hectare is lower than Kaabang's and Nakapiripirit's. This suggests that Kotido has a large area of cultivation but lower efficiency, while Kaabang achieves better productivity per unit area. Sorghum appears less productive than maize overall, possibly due to lower inputs, poor agronomic practices, or environmental limitations.
 
-<img width="978" height="478" alt="Total Crop Yield" src="https://github.com/user-attachments/assets/3441aa6b-c45f-4244-b805-831aa61438af" />
+<img width="991" height="481" alt="Total Crop Yield" src="https://github.com/user-attachments/assets/155b9df3-fbcd-48d5-9bcb-ab417be610d1" />
 
+**Kotido has the largest sorghum planting area** (~50,000 Ha), dwarfing maize cultivation. Kaabong and Nakupiripirit also favour sorghum cultivation over maize cultivation with both having close to 20,000 Ha for its cultivation. **Napak has a more balanced planting mix** with sorghum slightly ahead. **Abim, Amudat and Moroto have very small planting areas** (< 5,000 Ha) for both crops, with sorghum slightly higher.
 
-Nakupiripirit and Kotido lead in per capita production (87.98 and 82.29) respectively, indicating that relative to population, these districts produce a surplus. Kaabang and especially Moroto are the lowest (24.64 and 5.56 resp.), showing significant production pressure relative to population.
+Districts reveal **distinct crop specialization patterns**. **Kotido, Kaabong and Nakupiripirit are sorghum-heavy systems**, indicating strong **agro-ecological suitability and farmer
+preference for drought resistance cereals**. **Napak's balanced planting strategy** reflects **diversification**, possibly as a risk management approach against climate variability. On
+the other hand, **Abim, Amudat, and Moroto have limited cultivated land**, suggesting either **land constraints, lower agricultural investment, or greater reliance on external food
+supplies.**
 
-Nakupiripirit and Kotido are better positioned to meet household food needs and may even have surplases. On the other hand, Moroto shows critical underproduction, raising concerns about food shortages and dependency on imports or aid. Kaabang's low production per capita value, despite high yields, suggests population pressure or smaller total cultivated area relative to population size.
+<img width="987" height="470" alt="Total Crop Area by District" src="https://github.com/user-attachments/assets/3e301522-f539-4fbd-841d-6598a1ed88cd" />
 
-<img width="989" height="471" alt="Production per Capita" src="https://github.com/user-attachments/assets/2e59e038-f48a-499e-a06c-5928ee615aae" />
+**Nakupiripirit and Kotido lead in per capita production** (101.99 and 76.67) respectively, indicating that **relative to population, these districts produce a surplu**s. **Kaabong and
+especially Moroto** are the **lowest** (20.28 and 8.05 resp.), showing **significant production pressure relative to population**.
 
+**Nakupiripirit and Kotido** are **better positioned to meet household food needs** and may even have surplases. On the other hand, **Moroto shows critical underproduction**, raising
+concerns about food shortages and dependency on imports or aid. **Kaabang's low production per capita value, despite high yields**, suggests **population pressure or smaller total
+cultivated area relative to population size**.
 
+<img width="987" height="471" alt="True Prod  per Capita" src="https://github.com/user-attachments/assets/2a808de0-3ad3-4eb8-8bee-938243841c38" />
 
+Kotido and Nakupiripirit emerge as surplus-producing districts, capable of supporting their own populations and potentially supplying neighbouring areas. Napak, Amudat and Kaabong appear
+self-sufficient but with less surplus, while Moroto and Abim represent low-scale systems with minimal contribution to regional food stocks likely due to lower cultivated areas or less
+favourable growing conditions.
 
+<img width="989" height="469" alt="Total POP vs Total Prod" src="https://github.com/user-attachments/assets/0aae4003-34fb-4950-bbb0-c531154e913a" />
 
+## Conclusions
+- **Sorghum and maize yields vary significantly across districts** and subcounties, with some areas such as **Moroto District** consistently underperfoming due to harsher drought effects.
+- Districts like Kotido and Nakupiripirit consistently produce surplus rekative to population making them **regional supply hubs.**
+- Some districts such as Kaabong show good yields but low production per capita due to higher population relative to farmland, stressing the need to integrate demographic trends.
+- Some sub-counties such as **Nadunget, Namalu and Kotido rely heavily on a single crop**. This lack of diversification **increases vulnerability** when that crop fails.
+- Moroto, Abim and Amudat contribute less to the regional food basket, with both **low crop area and production**.
+
+## Recommendations
+- **Prioritize high-risk sub-counties.** Direct NGO interventions (farm inputs, drought-resistant seeds) to sub-counties with the lowest food production per capita such as Kaabong East and Kaabong Town Council.
+- **Promote crop diversification.** Encourage farmers to balance maize and sorghum cultivation or even introduce legumes such as beans or root crops such as cassava to reduce risk from crop-specific shocks. 
+- **Apply Targeted Resource Allocation.** Use yield maps to distribute resources e.ge fertilizers, more effectively rather than evenly across districts.
+- **Early warning systems.** Develop a monitoring framework that updates yield estimates annually or seasonally to detect emerging food security risks early.
+- **Promote soil health programs** such as use of organic manure, crop rotation, and soil conservation practices to improve yields sustainably.
+- **Market development**. Support farmers with market linkages and cooperative models so surplus is not wasted and farmers earn fair value.
