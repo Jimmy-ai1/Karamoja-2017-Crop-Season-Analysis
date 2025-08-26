@@ -49,7 +49,7 @@ especially Moroto** are the **lowest** (20.28 and 8.05 resp.), showing **signifi
 **Nakupiripirit and Kotido** are **better positioned to meet household food needs** and may even have surplases. On the other hand, **Moroto shows critical underproduction**, raising
 concerns about food shortages. **Kaabang's low production per capita value, despite high yields**, suggests **population pressure.
 
-<img width="987" height="471" alt="True Prod  per Capita" src="https://github.com/user-attachments/assets/2a808de0-3ad3-4eb8-8bee-938243841c38" />
+<img width="825" height="468" alt="True Prod  per Capita" src="https://github.com/user-attachments/assets/a20c1411-7276-425c-bf34-122ce8b008ce" />
 
 Kotido and Nakupiripirit emerge as surplus-producing districts, capable of supporting their own populations and potentially supplying neighbouring areas. Napak, Amudat and Kaabong appear
 self-sufficient but with less surplus, while Moroto and Abim represent low-scale systems with minimal contribution to regional food stocks likely due to lower cultivated areas or less
