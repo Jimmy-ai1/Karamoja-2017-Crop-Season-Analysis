@@ -70,7 +70,6 @@ favourable growing conditions.
 - **Apply Targeted Resource Allocation.** Use yield maps to distribute resources e.g. fertilizers, more effectively rather than evenly across districts.
 - **Early warning systems.** Develop a monitoring framework that updates yield estimates annually or seasonally to detect emerging food security risks early.
 - **Promote soil health programs** such as the use of organic manure, crop rotation, and soil conservation practices to improve yields sustainably.
-- **Market development**. Support farmers with market linkages and cooperative models so surplus is not wasted and farmers earn fair value.
 - **Introduce modern farming methods** such as irrigation and the use of greenhouses to improve crop yields and help unlock currently unused land in the region
 
 ## Dashboard Snapshot
