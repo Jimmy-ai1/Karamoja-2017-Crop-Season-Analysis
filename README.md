@@ -74,8 +74,8 @@ favourable growing conditions.
 - **Introduce mordern farming methods** such as irrigation and use of greenhouses to improve crop yields and help unlock currently unused land in the region
 
 ## For More Information
-See the full [Analysis](2017_Karamoja_Crop_Season_Analysis.ipynb)
-See [Tableau Workbook]()
+- See full [Analysis](2017_Karamoja_Crop_Season_Analysis.ipynb) for more technical information
+- See [Tableau Workbook]() for interactive visualization using the dashboard
 
 ```
 ├── Images
