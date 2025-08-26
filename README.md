@@ -28,7 +28,7 @@ The chart highlights Kotido's dominance in sorghum production, suggesting that s
 
 <img width="990" height="472" alt="Crop Contribution" src="https://github.com/user-attachments/assets/c9ae74de-20e7-428c-b9a8-e408c4413737" />
 
-Kabong and Nakapiripirit perform well in maize yields (13,851 kg/Ha and 9,353 kg/Ha resp.), far surpassing other districts. Sorghum yields are genereally lower across all districts, with Kaabang (3,664 kg/Ha) and Abim (2,582 kg/Ha) showing the strongest performance for sorghum. Moroto has the lowest yields for both crops indicating poor perfomance.
+Kabong and Nakapiripirit perform well in maize yields (13,851 kg/Ha and 9,353 kg/Ha resp.), far surpassing other districts. Sorghum yields are generally lower across all districts, with Kaabang (3,664 kg/Ha) and Abim (2,582 kg/Ha) showing the strongest performance for sorghum. Moroto has the lowest yields for both crops indicating poor perfomance.
 
 Although Kotido leads in production volumes, its yield per hectare is lower than Kaabang's and Nakapiripirit's. This suggests that Kotido has a large area of cultivation but lower efficiency, while Kaabang achieves better productivity per unit area. Sorghum appears less productive than maize overall, possibly due to lower inputs, poor agronomic practices, or environmental limitations.
 
@@ -37,7 +37,7 @@ Although Kotido leads in production volumes, its yield per hectare is lower than
 **Kotido has the largest sorghum planting area** (~50,000 Ha), dwarfing maize cultivation. Kaabong and Nakupiripirit also favour sorghum cultivation over maize cultivation with both having close to 20,000 Ha for its cultivation. **Napak has a more balanced planting mix** with sorghum slightly ahead. **Abim, Amudat and Moroto have very small planting areas** (< 5,000 Ha) for both crops, with sorghum slightly higher.
 
 Districts reveal **distinct crop specialization patterns**. **Kotido, Kaabong and Nakupiripirit are sorghum-heavy systems**, indicating strong **agro-ecological suitability and farmer
-preference for drought resistance cereals**. **Napak's balanced planting strategy** reflects **diversification**, possibly as a risk management approach against climate variability. On
+preference for drought-resistance cereals**. **Napak's balanced planting strategy** reflects **diversification**, possibly as a risk management approach against climate variability. On
 the other hand, **Abim, Amudat, and Moroto have limited cultivated land**, suggesting either **land constraints, lower agricultural investment, or greater reliance on external food
 supplies.**
 
@@ -67,15 +67,19 @@ favourable growing conditions.
 ## Recommendations
 - **Prioritize high-risk sub-counties.** Direct NGO interventions (farm inputs, drought-resistant seeds) to sub-counties with the lowest food production per capita such as Kaabong East and Kaabong Town Council.
 - **Promote crop diversification.** Encourage farmers to balance maize and sorghum cultivation or even introduce legumes such as beans or root crops such as cassava to reduce risk from crop-specific shocks. 
-- **Apply Targeted Resource Allocation.** Use yield maps to distribute resources e.g fertilizers, more effectively rather than evenly across districts.
+- **Apply Targeted Resource Allocation.** Use yield maps to distribute resources e.g. fertilizers, more effectively rather than evenly across districts.
 - **Early warning systems.** Develop a monitoring framework that updates yield estimates annually or seasonally to detect emerging food security risks early.
-- **Promote soil health programs** such as use of organic manure, crop rotation, and soil conservation practices to improve yields sustainably.
+- **Promote soil health programs** such as the use of organic manure, crop rotation, and soil conservation practices to improve yields sustainably.
 - **Market development**. Support farmers with market linkages and cooperative models so surplus is not wasted and farmers earn fair value.
-- **Introduce mordern farming methods** such as irrigation and use of greenhouses to improve crop yields and help unlock currently unused land in the region
+- **Introduce modern farming methods** such as irrigation and the use of greenhouses to improve crop yields and help unlock currently unused land in the region
+
+## Dashboard Snapshot
+
+<img width="1151" height="548" alt="Dashboard" src="https://github.com/user-attachments/assets/942b654e-7662-4119-8e3d-a81b70d81d0f" />
 
 ## For More Information
-- See full [Analysis](2017_Karamoja_Crop_Season_Analysis.ipynb) for more technical information
-- See [Tableau Workbook]() for interactive visualization using the dashboard
+- See [Full Analysis](2017_Karamoja_Crop_Season_Analysis.ipynb) for more technical information
+- See [Tableau Workbook](https://public.tableau.com/app/profile/jimmy.gichui/viz/Karamoja2017SeasonAnalysis/KaramojaCropSeasonAnalysis?publish=yes) for interactive visualization using the dashboard
 
 ```
 ├── Images
