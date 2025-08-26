@@ -72,3 +72,6 @@ favourable growing conditions.
 - **Promote soil health programs** such as use of organic manure, crop rotation, and soil conservation practices to improve yields sustainably.
 - **Market development**. Support farmers with market linkages and cooperative models so surplus is not wasted and farmers earn fair value.
 - **Introduce mordern farming methods** such as irrigation and use of greenhouses to improve crop yields in the region
+
+## For More Information
+See the full [Analysis](2017_Karamoja_Crop_Season_Analysis.ipynb)
