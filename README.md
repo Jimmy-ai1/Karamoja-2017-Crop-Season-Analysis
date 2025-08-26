@@ -1,4 +1,4 @@
-# Karamoja-2017-Season-Analysis
+# Karamoja 2017 Crop Season Analysis
 
 ![Crop_fields](https://github.com/user-attachments/assets/d51c0583-3ed6-4f28-87af-5d7241b564cf)
 
