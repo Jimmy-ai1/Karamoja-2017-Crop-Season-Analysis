@@ -83,6 +83,7 @@ favourable growing conditions.
 ```
 ├── Images
 ├── Data
+├── Karamoja 2017 Crop Season Analysis Presentation.pdf
 ├── Karamoja 2017 Crop Season Analysis.ipynb
 └── README.md
 ```
