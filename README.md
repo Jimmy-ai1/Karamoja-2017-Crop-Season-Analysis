@@ -81,8 +81,8 @@ favourable growing conditions.
 - See [Tableau Workbook](https://public.tableau.com/app/profile/jimmy.gichui/viz/Karamoja2017SeasonAnalysis/KaramojaCropSeasonAnalysis?publish=yes) for interactive visualization using the dashboard
 
 ```
-├── Images
 ├── Data
+├── Images
 ├── Karamoja 2017 Crop Season Analysis Presentation.pdf
 ├── Karamoja 2017 Crop Season Analysis.ipynb
 └── README.md
